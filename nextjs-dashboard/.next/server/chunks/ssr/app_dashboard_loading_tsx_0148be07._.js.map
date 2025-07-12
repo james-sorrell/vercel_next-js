@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/andre/Documents/workspace/.git/vercel_next-js/nextjs-dashboard/app/dashboard/loading.tsx"],"sourcesContent":["export default function Loading() {\r\n    return <div>Loading...</div>;\r\n  }"],"names":[],"mappings":";;;;;AAAe,SAAS;IACpB,qBAAO,6WAAC;kBAAI;;;;;;AACd","debugId":null}}]
+}
