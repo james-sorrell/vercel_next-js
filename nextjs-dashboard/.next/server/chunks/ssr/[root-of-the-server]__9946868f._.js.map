@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 5, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/andre/Documents/workspace/.git/vercel_next-js/nextjs-dashboard/.next-internal/server/app/dashboard/page/actions.js%20%28server%20actions%20loader%29"],"sourcesContent":["export {$$RSC_SERVER_ACTION_0 as '0089283821c506aa6072e3b0021e4d0861b6b8e720'} from 'ACTIONS_MODULE0'\n"],"names":[],"mappings":";AAAA","debugId":null}},
+    {"offset": {"line": 45, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/andre/Documents/workspace/.git/vercel_next-js/nextjs-dashboard/app/dashboard/page.tsx"],"sourcesContent":["import { Metadata } from 'next';\r\n \r\nexport const metadata: Metadata = {\r\n  title: 'Invoices | Acme Dashboard',\r\n};"],"names":[],"mappings":";;;AAEO,MAAM,WAAqB;IAChC,OAAO;AACT","debugId":null}}]
+}

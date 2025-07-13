@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/andre/Documents/workspace/.git/vercel_next-js/nextjs-dashboard/node_modules/.pnpm/next%4015.4.0-canary.128_reac_328c8fcddf36fc86c74632b09435ed18/node_modules/next/error.js"],"sourcesContent":["module.exports = require('./dist/pages/_error')\n"],"names":[],"mappings":"AAAA,OAAO,OAAO","ignoreList":[0],"debugId":null}}]
+}

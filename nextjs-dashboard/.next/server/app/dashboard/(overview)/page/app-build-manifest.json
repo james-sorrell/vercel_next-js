@@ -2,19 +2,22 @@
   "pages": {
     "/dashboard/(overview)/page": [
       "static/chunks/[root-of-the-server]__b94e0764._.css",
-      "static/chunks/f07ee_next_dist_35a4b6e8._.js",
-      "static/chunks/app_layout_tsx_be0f615f._.js",
-      "static/chunks/_48849090._.js",
-      "static/chunks/app_dashboard_layout_tsx_c802944a._.js",
-      "static/chunks/f07ee_next_dist_a05d8574._.js",
-      "static/chunks/app_dashboard_(overview)_page_tsx_b3a3f3fc._.js",
-      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_727141ce._.js",
-      "static/chunks/f07ee_next_dist_compiled_072afd38._.js",
-      "static/chunks/f07ee_next_dist_client_5cf5dcf9._.js",
-      "static/chunks/f07ee_next_dist_eb86032f._.js",
-      "static/chunks/61dca_@swc_helpers_cjs_e27e0aca._.js",
+      "static/chunks/9953d_next_dist_913ad7ce._.js",
+      "static/chunks/app_layout_tsx_53175487._.js",
+      "static/chunks/9953d_next_dist_client_components_builtin_global-error_77e39555.js",
+      "static/chunks/_d5c04c70._.js",
+      "static/chunks/app_dashboard_layout_tsx_77e39555._.js",
+      "static/chunks/9953d_next_dist_9d94cade._.js",
+      "static/chunks/app_dashboard_(overview)_page_tsx_226cffd6._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_f8306e56._.js",
+      "static/chunks/9953d_next_dist_compiled_react-dom_2b703a06._.js",
+      "static/chunks/9953d_next_dist_compiled_next-devtools_index_ed280e92.js",
+      "static/chunks/9953d_next_dist_compiled_7f571b19._.js",
+      "static/chunks/9953d_next_dist_client_93d39a63._.js",
+      "static/chunks/9953d_next_dist_ed2120dd._.js",
+      "static/chunks/61dca_@swc_helpers_cjs_28edb73c._.js",
       "static/chunks/_e69f0d32._.js",
-      "static/chunks/_42fd111b._.js"
+      "static/chunks/_8d8fafad._.js"
     ]
   }
 }
